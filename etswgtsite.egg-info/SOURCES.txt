@@ -1,0 +1,7 @@
+README.txt
+runWGT.py
+setup.py
+etswgtsite.egg-info/PKG-INFO
+etswgtsite.egg-info/SOURCES.txt
+etswgtsite.egg-info/dependency_links.txt
+etswgtsite.egg-info/top_level.txt
